@@ -1,7 +1,7 @@
 #1
 a = {
-     "Google": "1000000",
-     "Opera": "800000"
+     "Google": "90",
+     "Opera": "10"
 }
 print(f"{a}\n")
 
